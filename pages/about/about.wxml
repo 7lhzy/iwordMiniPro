@@ -1,0 +1,10 @@
+<view class="page">
+
+<image style="width: 100%; height:250px; " mode="scaleToFill" src="../../images/bottom.gif"></image>
+<view style="font-size:20px;font-weight:800;width:100%;">iWord v2.02</view>
+<view>作者</view>
+<view>czy</view>
+<view>意见反馈及商务合作</view>
+<view>联系邮箱：czyling1125@163.com</view>
+</view>
+

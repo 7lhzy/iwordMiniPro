@@ -1,0 +1,10 @@
+{
+
+      "backgroundTextStyle": "light",
+      "backgroundColor": "#4a475b",
+      "navigationBarBackgroundColor": "#4a475b",
+      "navigationBarTitleText": "IWord",
+      "navigationBarTextStyle": "white",
+      "enablePullDownRefresh": true
+
+}

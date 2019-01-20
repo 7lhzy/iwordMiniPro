@@ -1,0 +1,7 @@
+<view class="search-content">
+    <view class="word-input" bindtap="searchinput">在此输入单词或句子</view>
+    
+</view>
+
+
+
